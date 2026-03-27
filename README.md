@@ -1,2 +1,2 @@
 # HelloWorld
-a sample protect
+Test Go Module
