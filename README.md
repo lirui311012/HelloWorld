@@ -33,6 +33,8 @@ install cmd
 
 ```bash
 go install github.com/lirui311012/HelloWorld/cmd/helloworld@latest
+
+helloworld -name jack2
 ```
 
 ## Example
