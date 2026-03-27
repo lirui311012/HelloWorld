@@ -1,5 +1,7 @@
 # HelloWorld
 just say hello
+Go Package: https://pkg.go.dev/
+HelloWorld: https://pkg.go.dev/github.com/lirui311012/HelloWorld
 
 1. Clone the repository and initialize the module
 ```bash
